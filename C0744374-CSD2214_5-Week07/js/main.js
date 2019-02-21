@@ -2,7 +2,7 @@
     genus:'corvus',
     species:'corvax',
     commanName:'raven',
-    callType:'squawky'
+    callType:'squawky',
     quote:'Nevermore',
     maxOffSpring:5,
     noisy:true,
@@ -13,9 +13,12 @@ var bear={
     genus:'ursus',
     species:'arctos',
     commanName:'brown bear',
-    callType:'roar'
+    callType:'roar',
     quote:'',
     maxOffSpring:3,
     noisy:true,
     deadly:true
 };
+
+var cities=['Toronto','Ajax','Maple','Richmond Hill','stouffville','Whitby'];
+    
